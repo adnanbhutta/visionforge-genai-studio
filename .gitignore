@@ -1,0 +1,10 @@
+# Generated model artifacts (can exceed GitHub file size limits)
+output/*.pth
+output/*.pt
+output/*.pkl
+outputs/*.pth
+outputs/*.pt
+outputs/*.pkl
+
+# Local virtual environment
+.venv/

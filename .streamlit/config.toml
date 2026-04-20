@@ -1,0 +1,14 @@
+[client]
+maxUploadSize = 4096
+
+[server]
+maxUploadSize = 4096
+maxMessageSize = 4096
+runOnSave = true
+
+[theme]
+primaryColor = "#38BDF8"
+backgroundColor = "#04070F"
+secondaryBackgroundColor = "#0F172A"
+textColor = "#E5E7EB"
+font = "sans serif"

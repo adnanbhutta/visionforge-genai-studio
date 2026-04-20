@@ -1,4 +1,4 @@
-# GenAI Assignment 03
+# visionforge-genai-studio
 
 A practical Streamlit project that demonstrates three important Generative AI workflows using PyTorch:
 
